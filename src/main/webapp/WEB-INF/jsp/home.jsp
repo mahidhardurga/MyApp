@@ -15,6 +15,9 @@ body{
 <body>
 	<center>
 		<h1>Welcome to Home!</h1>
+		<br>
+		<br>
+		<h3>This is a sample App created to Learn Deployment</h3>
 	</center>
 </body>
 </html>
