@@ -16,23 +16,60 @@
 				<strong>Website</strong>
 			</div>
 		</div>
-		<div class="content">
-			<div class="content1">
-				<ul>
-					<li>Google</li>
-					<li>Amazon</li>
-					<li>Microsoft</li>
-					<li>Apple</li>
-				</ul>
-			</div>
-			<div class="content2">
-				<ul>
-					<li>Hyderabad</li>
-					<li>Banglore</li>
-					<li>Chennai</li>
-					<li>Trivendram</li>
-			</div>
 
+
+		<div class="data">
+			Tailwind UI - Official Tailwind CSS Componentshttps://tailwindui.com
+			Beautiful UI components, crafted with Tailwind CSS. By the makers of
+			Tailwind CSS. Over 400+ professionally designed, fully responsive,
+			expertly crafted ... Docs Documentation Tailwind UI is more like a
+			set of blueprints, patterns, and ideas ... Hero Sections
+
+			<p>Data to enrich your online business. Anim aute id magna ...
+				Pricing & FAQ Tailwind UI is a one-time purchase, with no recurring
+				subscription ... Home Screens We've got more coming... Want to hear
+				from us when we add new ...</p>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+				<h4>data</h4>
+
+			<p>Try it out Tailwind UI is a collection of professionally
+				designed, pre ... Form Layouts Profile. This information will be
+				displayed publicly so be careful ... More results from
+				tailwindui.com » TUK - Biggest UI kit for tailwind css templates &
+				componentshttps://tailwinduikit.com The only UI kit for tailwind css
+				to offer 600+ components 30 templates. Integrations for React,
+				Angular, Vue, and Wordpress. Free and premium templates.</p>
+			People also ask Is Tailwind better than bootstrap? Is Tailwind a
+			framework? Is Tailwind a CSS? Can I use tailwind and bootstrap
+			together?
 		</div>
 
 		<div class="footer">
