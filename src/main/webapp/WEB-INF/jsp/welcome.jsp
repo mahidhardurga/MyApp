@@ -10,12 +10,13 @@
 </head>
 <body>
 	<nav class="navbar">
+	<input type="checkbox" id="nav-toggle" hidden>
 		<div class="brand-title">Brand Name</div>
-		<a href="#" class="toggle-button">
-			<span class="bar"></span>
-			<span class="bar"></span>
-			<span class="bar"></span>
-		</a>
+		<label for="nav-toggle" class="toggle-button">
+			<div class="bar"></div>
+			<div class="bar"></div>
+			<div class="bar"></div>
+		</label>
 		<div class="navbar-links">
 			<ul>
 				<li><a href="#">Home</a></li>
